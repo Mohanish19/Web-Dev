@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+p,li{
+    color: green;
+    list-style-type: lower-roman;
+}
+.nn{
+    color: rgb(39, 132, 212);
+}
+a:link{
+    color: rgb(26, 18, 21);
+}
+a:visited {
+    color: green;
+  }
